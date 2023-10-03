@@ -1,0 +1,1 @@
+package ge.market.flea.config;import org.springframework.context.annotation.Configuration;import org.telegram.abilitybots.api.sender.MessageSender;import org.telegram.abilitybots.api.sender.SilentSender;@Configurationpublic class TelegramConfig {}

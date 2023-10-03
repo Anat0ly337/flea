@@ -1,0 +1,1 @@
+package ge.market.flea.telegram;public enum UserState {    AWAITING_NAME, PIZZA_TOPPINGS, AWAITING_CONFIRMATION, LANGUAGE_CHOOSE, MOBILE_SEARCH,    COMMON_SEARCH}
