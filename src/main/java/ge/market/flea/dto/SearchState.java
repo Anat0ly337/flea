@@ -8,6 +8,6 @@ import lombok.Data;
 @AllArgsConstructor
 @Builder
 public class SearchState {
-    private String serachText;
+    private String searchText;
     private String page;
 }
